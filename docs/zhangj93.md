@@ -2,3 +2,4 @@
  - [ ] Where you are from: Shanghai
  - [ ] A favorite food: Chicken
  - [ ] A hobby: Game
+ - [ ] Favorite color: Green

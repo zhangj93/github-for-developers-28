@@ -3,3 +3,4 @@
  - [ ] A favorite food: Chicken
  - [ ] A hobby: Game
  - [ ] Favorite color: Green
+ - [ ] Favorite city: Shanghai
